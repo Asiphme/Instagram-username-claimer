@@ -1,0 +1,23 @@
+instagram:
+  username: "l6l2l2ll"
+  password: "Abrorjon66"
+
+telegram:
+  bot_token: "7788151900:AAGyt6Y1TjP6jsq6-jkXDDfWAgjFxvIm-t4"
+  chat_id: "2117884402"
+
+captcha:
+  api_key: "2ea576f58cf1460599c1e15ef82fc573"
+
+settings:
+  min_username_length: 3
+  max_username_length: 5
+  include_numbers: true
+  use_proxies: true
+  threads: 5
+
+proxy:
+  sources:
+    - https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/http.txt
+    - https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/http.txt
+    - https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/http.txt
